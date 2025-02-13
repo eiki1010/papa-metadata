@@ -1,0 +1,17 @@
+{
+    "name": "PAPA",
+    "symbol": "PAPA",
+    "description": "PAPA is a meme token that represents luxury and exclusivity.",
+    "image": "https://raw.githubusercontent.com/eiki1010/papa-metadata/refs/heads/main/papa.png",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/eiki1010/papa-metadata/refs/heads/main/papa.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  
